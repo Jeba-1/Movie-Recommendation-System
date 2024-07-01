@@ -5,6 +5,7 @@ Datasets:
 The project uses two datasets:
 1. `tmdb_5000_movies.csv` - Contains movie metadata.
 2. `tmdb_5000_credits.csv` - Contains cast and crew information for each movie.
+   
 Requirements:
 To run this project, you need the following Python libraries:
 - numpy
